@@ -1,0 +1,4 @@
+"","log_co2","log_gdp","log_energy"
+"log_co2",1,0.907,0.974
+"log_gdp",0.907,1,0.942
+"log_energy",0.974,0.942,1
